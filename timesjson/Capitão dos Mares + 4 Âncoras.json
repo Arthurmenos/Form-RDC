@@ -1,0 +1,45 @@
+{
+  "time-nome": "Capitão dos Mares + 4 Âncoras",
+  "capitao": {
+    "id": "158934336",
+    "telefone": "(77) 8 8147-524_",
+    "whatsapp": "(77) 8 8147-524_",
+    "discord": "seacaptainn",
+    "rank": "imortal-1k"
+  },
+  "time-divisao": "primeira",
+  "jogadores": [
+    {
+      "id": "123097213",
+      "whatsapp": "(83) 9 9934-7170",
+      "discord": "onlyl7",
+      "rank": "imortal-1k"
+    },
+    {
+      "id": "216609357",
+      "whatsapp": "(21) 9 9824-2256",
+      "discord": "victorvladslav",
+      "rank": "lenda-4"
+    },
+    {
+      "id": "296098327",
+      "whatsapp": "(94) 9 8432-6927",
+      "discord": "arthurmais",
+      "rank": "imortal-3k"
+    },
+    {
+      "id": "60576869",
+      "whatsapp": "(83) 9 9143-2970",
+      "discord": "klr7",
+      "rank": "imortal-3k"
+    },
+    {
+      "id": "409766154",
+      "whatsapp": "(35) 9 9899-8172",
+      "discord": "shiro20",
+      "rank": "lenda-5"
+    }
+  ],
+  "id": 26270477,
+  "submissionDate": "14-02-2024 00:19"
+}

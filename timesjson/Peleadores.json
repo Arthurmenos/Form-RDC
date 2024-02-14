@@ -1,0 +1,51 @@
+{
+  "time-nome": "Peleadores",
+  "capitao": {
+    "id": "88611330",
+    "telefone": "(35) 9 9878-3629",
+    "whatsapp": "(35) 9 9878-3629",
+    "discord": "minidotaa",
+    "rank": "imortal-1k"
+  },
+  "time-divisao": "primeira",
+  "jogadores": [
+    {
+      "id": "92555329",
+      "whatsapp": "(13) 9 9748-7208",
+      "discord": "d4n013",
+      "rank": "ancestral-1"
+    },
+    {
+      "id": "119679018",
+      "whatsapp": "(35) 9 9952-6034",
+      "discord": "daileon",
+      "rank": "ancestral-4"
+    },
+    {
+      "id": "86957746",
+      "whatsapp": "(11) 9 8332-1081",
+      "discord": "tiofantu",
+      "rank": "imortal-3k"
+    },
+    {
+      "id": "86782924",
+      "whatsapp": "(21) 9 7981-6666",
+      "discord": "dirmaourso",
+      "rank": "imortal-3k"
+    },
+    {
+      "id": "86311938",
+      "whatsapp": "(19) 9 9610-0680",
+      "discord": "bozzera",
+      "rank": "ancestral-2"
+    },
+    {
+      "id": "108198877",
+      "whatsapp": "(35) 9 9910-1144",
+      "discord": "takao8875",
+      "rank": "imortal-3k"
+    }
+  ],
+  "id": 26268701,
+  "submissionDate": "13-02-2024 20:37"
+}

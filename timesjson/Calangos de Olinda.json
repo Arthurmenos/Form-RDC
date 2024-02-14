@@ -1,0 +1,51 @@
+{
+  "time-nome": "Calangos de Olinda",
+  "capitao": {
+    "id": "150492847",
+    "telefone": "(81) 9 9264-6966",
+    "whatsapp": "(81) 9 9264-6966",
+    "discord": "Ginho6892",
+    "rank": "lenda-2"
+  },
+  "time-divisao": "segunda",
+  "jogadores": [
+    {
+      "id": "124560698",
+      "whatsapp": "(81) 9 9597-6503",
+      "discord": "#seneca0586",
+      "rank": "lenda-2"
+    },
+    {
+      "id": "150565148",
+      "whatsapp": "(21) 9 7169-0020",
+      "discord": "DOGonauta#2122",
+      "rank": "lenda-3"
+    },
+    {
+      "id": "107543961",
+      "whatsapp": "(81) 9 9944-7826",
+      "discord": "ninaropalhaco",
+      "rank": "lenda-1"
+    },
+    {
+      "id": "136470462",
+      "whatsapp": "(81) 9 8181-5475",
+      "discord": "NaN#8244",
+      "rank": "lenda-5"
+    },
+    {
+      "id": "471375936",
+      "whatsapp": "(48) 9 8819-9830",
+      "discord": "lipi_333",
+      "rank": "guardiao-5"
+    },
+    {
+      "id": "101716173",
+      "whatsapp": "(00) 0 0000-0000",
+      "discord": "marcozeraa",
+      "rank": "lenda-3"
+    }
+  ],
+  "id": 26282989,
+  "submissionDate": "14-02-2024 19:44"
+}

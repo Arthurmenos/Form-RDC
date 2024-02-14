@@ -1,0 +1,51 @@
+{
+  "time-nome": "GALATICOS",
+  "capitao": {
+    "id": "100141343",
+    "telefone": "(11) 9 7188-1325",
+    "whatsapp": "(12) 9 8200-7484",
+    "discord": "jsjacobs#3760",
+    "rank": "lenda-1"
+  },
+  "time-divisao": "segunda",
+  "jogadores": [
+    {
+      "id": "447766980",
+      "whatsapp": "(44) 9 9869-9408",
+      "discord": "magodmas",
+      "rank": "cruzado-3"
+    },
+    {
+      "id": "370136394",
+      "whatsapp": "(21) 9 7619-9553",
+      "discord": "Junior Alves",
+      "rank": "arconte-4"
+    },
+    {
+      "id": "183592640",
+      "whatsapp": "(95) 9 8118-8258",
+      "discord": "KaelJordan#8278",
+      "rank": "lenda-1"
+    },
+    {
+      "id": "136808697",
+      "whatsapp": "(81) 9 9803-6629",
+      "discord": "James00013",
+      "rank": "ancestral-5"
+    },
+    {
+      "id": "9999999",
+      "whatsapp": "(99) 9 9999-9999",
+      "discord": "ph",
+      "rank": "arconte-3"
+    },
+    {
+      "id": "115315918",
+      "whatsapp": "(44) 9 9134-5363",
+      "discord": "lordveider.",
+      "rank": "arconte-5"
+    }
+  ],
+  "id": 26254505,
+  "submissionDate": "13-02-2024 00:19"
+}

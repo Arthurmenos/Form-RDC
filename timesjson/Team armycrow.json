@@ -1,0 +1,39 @@
+{
+  "time-nome": "Team armycrow",
+  "capitao": {
+    "id": "102100342",
+    "telefone": "(81) 9 8275-0010",
+    "whatsapp": "(81) 9 8275-0010",
+    "discord": "caiolima0205",
+    "rank": "lenda-4"
+  },
+  "time-divisao": "segunda",
+  "jogadores": [
+    {
+      "id": "223344939",
+      "whatsapp": "(11) 9 6188-4714",
+      "discord": "darkan4919",
+      "rank": "ancestral-5"
+    },
+    {
+      "id": "165454468",
+      "whatsapp": "(79) 9 9631-2598",
+      "discord": "Kra7x#2304",
+      "rank": "lenda-4"
+    },
+    {
+      "id": "101857170",
+      "whatsapp": "(79) 9 8168-5902",
+      "discord": "/\\/\\etaL#0169",
+      "rank": "lenda-2"
+    },
+    {
+      "id": "212997278",
+      "whatsapp": "(92) 9 9527-3250",
+      "discord": "@jubijubao",
+      "rank": "ancestral-5"
+    }
+  ],
+  "id": 26254057,
+  "submissionDate": "12-02-2024 23:07"
+}

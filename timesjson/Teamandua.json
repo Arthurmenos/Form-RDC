@@ -1,0 +1,39 @@
+{
+  "time-nome": "Teamandua",
+  "capitao": {
+    "id": "101958208",
+    "telefone": "(31) 9 9317-2596",
+    "whatsapp": "(31) 9 9317-2596",
+    "discord": "Fidaler#1870",
+    "rank": "ancestral-3"
+  },
+  "time-divisao": "segunda",
+  "jogadores": [
+    {
+      "id": "113536049",
+      "whatsapp": "(31) 9 8451-8432",
+      "discord": "LeoRobini#5459",
+      "rank": "lenda-1"
+    },
+    {
+      "id": "318397261",
+      "whatsapp": "(31) 9 9791-9859",
+      "discord": "Uai#2973",
+      "rank": "cruzado-5"
+    },
+    {
+      "id": "83192660",
+      "whatsapp": "(31) 9 7312-4793",
+      "discord": "RENATOF#5334",
+      "rank": "ancestral-1"
+    },
+    {
+      "id": "90409440",
+      "whatsapp": "(31) 9 8399-8565",
+      "discord": "markintralha#3888",
+      "rank": "ancestral-3"
+    }
+  ],
+  "id": 26252515,
+  "submissionDate": "12-02-2024 20:19"
+}

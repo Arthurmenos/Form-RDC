@@ -1,0 +1,45 @@
+{
+  "time-nome": "Ez Mid",
+  "capitao": {
+    "id": "108176766",
+    "telefone": "(21) 9 7920-3802",
+    "whatsapp": "(21) 9 7920-3802",
+    "discord": "carlostorres37",
+    "rank": "divino-2"
+  },
+  "time-divisao": "primeira",
+  "jogadores": [
+    {
+      "id": "204960447",
+      "whatsapp": "(64) 8 4616-800_",
+      "discord": "jabzs_02750",
+      "rank": "imortal-3k"
+    },
+    {
+      "id": "159045108",
+      "whatsapp": "(18) 9 9143-0319",
+      "discord": "takashi_br",
+      "rank": "imortal-3k"
+    },
+    {
+      "id": "230371390",
+      "whatsapp": "(73) 9 9896-996_",
+      "discord": "brunOPRESSOR #2982",
+      "rank": "ancestral-1"
+    },
+    {
+      "id": "365698215",
+      "whatsapp": "(31) 9 3179-053_",
+      "discord": "guilhermemamao",
+      "rank": "ancestral-5"
+    },
+    {
+      "id": "32686285",
+      "whatsapp": "(31) 9 7018-287_",
+      "discord": "jonesdota",
+      "rank": "ancestral-1"
+    }
+  ],
+  "id": 26262400,
+  "submissionDate": "13-02-2024 13:41"
+}

@@ -1,0 +1,51 @@
+{
+  "time-nome": "Team Antares Young",
+  "capitao": {
+    "id": "117307248",
+    "telefone": "(11) 9 8298-1779",
+    "whatsapp": "(11) 9 8298-1779",
+    "discord": "antaresdota",
+    "rank": "cruzado-5"
+  },
+  "time-divisao": "segunda",
+  "jogadores": [
+    {
+      "id": "102251446",
+      "whatsapp": "(83) 9 9673-8653",
+      "discord": "@laurocsr",
+      "rank": "lenda-3"
+    },
+    {
+      "id": "128597717",
+      "whatsapp": "(17) 9 9793-3233",
+      "discord": "Bisteka#1506",
+      "rank": "ancestral-5"
+    },
+    {
+      "id": "151618183",
+      "whatsapp": "(47) 9 9108-1598",
+      "discord": "JogadorAmante#7426",
+      "rank": "arconte-4"
+    },
+    {
+      "id": "138180016",
+      "whatsapp": "(99) 8 2502-97__",
+      "discord": "Mentalist",
+      "rank": "ancestral-1"
+    },
+    {
+      "id": "1078731541",
+      "whatsapp": "(61) 9 9565-1684",
+      "discord": "Thunder' s",
+      "rank": "arconte-2"
+    },
+    {
+      "id": "7493067",
+      "whatsapp": "(35) 8 8139-400_",
+      "discord": "ati4fun",
+      "rank": "arconte-1"
+    }
+  ],
+  "id": 26248566,
+  "submissionDate": "12-02-2024 15:16"
+}
